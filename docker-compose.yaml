@@ -21,6 +21,7 @@ services:
       - ./plugins:/opt/airflow/plugins
       - ./config:/opt/airflow/config
       - ./sql:/opt/airflow/sql
+      - ./data:/opt/airflow/data
     command: >
       bash -c "
       set -e;
