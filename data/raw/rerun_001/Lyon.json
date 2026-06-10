@@ -1,0 +1,30 @@
+{
+  "city": "Lyon",
+  "latitude": 45.764,
+  "longitude": 4.8357,
+  "api_response": {
+    "latitude": 45.760002,
+    "longitude": 4.8399997,
+    "generationtime_ms": 0.12743473052978516,
+    "utc_offset_seconds": 7200,
+    "timezone": "Europe/Paris",
+    "timezone_abbreviation": "GMT+2",
+    "elevation": 184.0,
+    "current_units": {
+      "time": "iso8601",
+      "interval": "seconds",
+      "temperature_2m": "°C",
+      "relative_humidity_2m": "%",
+      "wind_speed_10m": "km/h",
+      "weather_code": "wmo code"
+    },
+    "current": {
+      "time": "2026-06-10T13:00",
+      "interval": 900,
+      "temperature_2m": 17.9,
+      "relative_humidity_2m": 50,
+      "wind_speed_10m": 14.6,
+      "weather_code": 3
+    }
+  }
+}

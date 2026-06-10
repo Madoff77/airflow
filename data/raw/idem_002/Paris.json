@@ -1,0 +1,30 @@
+{
+  "city": "Paris",
+  "latitude": 48.8566,
+  "longitude": 2.3522,
+  "api_response": {
+    "latitude": 48.86,
+    "longitude": 2.3599997,
+    "generationtime_ms": 0.07140636444091797,
+    "utc_offset_seconds": 7200,
+    "timezone": "Europe/Paris",
+    "timezone_abbreviation": "GMT+2",
+    "elevation": 36.0,
+    "current_units": {
+      "time": "iso8601",
+      "interval": "seconds",
+      "temperature_2m": "°C",
+      "relative_humidity_2m": "%",
+      "wind_speed_10m": "km/h",
+      "weather_code": "wmo code"
+    },
+    "current": {
+      "time": "2026-06-10T13:00",
+      "interval": 900,
+      "temperature_2m": 17.4,
+      "relative_humidity_2m": 56,
+      "wind_speed_10m": 13.0,
+      "weather_code": 3
+    }
+  }
+}

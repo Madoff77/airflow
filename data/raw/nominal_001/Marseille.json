@@ -1,0 +1,30 @@
+{
+  "city": "Marseille",
+  "latitude": 43.2965,
+  "longitude": 5.3698,
+  "api_response": {
+    "latitude": 43.3,
+    "longitude": 5.369999,
+    "generationtime_ms": 0.2123117446899414,
+    "utc_offset_seconds": 7200,
+    "timezone": "Europe/Paris",
+    "timezone_abbreviation": "GMT+2",
+    "elevation": 6.0,
+    "current_units": {
+      "time": "iso8601",
+      "interval": "seconds",
+      "temperature_2m": "°C",
+      "relative_humidity_2m": "%",
+      "wind_speed_10m": "km/h",
+      "weather_code": "wmo code"
+    },
+    "current": {
+      "time": "2026-06-10T12:45",
+      "interval": 900,
+      "temperature_2m": 23.3,
+      "relative_humidity_2m": 36,
+      "wind_speed_10m": 33.9,
+      "weather_code": 3
+    }
+  }
+}
